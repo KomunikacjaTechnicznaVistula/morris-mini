@@ -13,7 +13,7 @@ Air pollution, rain, mud and traffic film will make the vehicle exterior dirty.
 
 Retain the new appearance of the vehicle by cleaning it regularly and applying BMC car polish.
 
-- *Note:* Keep the hand brake fully on when using high pressure water washing to avoid wetting the brakes.
+- **Note:** Keep the hand brake fully on when using high pressure water washing to avoid wetting the brakes.
 
 - Wash the exterior of the vehicle frequently using a soft sponge and plenty of water containing a mild detergent.
 - Soften large deposits of mud first with water before using the sponge.
