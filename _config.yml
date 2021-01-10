@@ -1,0 +1,13 @@
+name: Komunikacja Techniczna, Akademia Finansów i Biznesu Vistula
+title: Morris Mini Owner's Manual
+description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
+remote_theme: pmarsceill/just-the-docs
+
+aux_links:
+  "Source repository on GitHub":
+    - "//github.com/KomunikacjaTechnicznaVistula/komunikacjatechnicznavistula.github.io"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
