@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Morris Mini Owner's Manual
+title: Introduction
 nav_order: 1
 description: "Driver's Handbook for the Morris Mini Minor"
 permalink: /
