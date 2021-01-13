@@ -5,13 +5,19 @@ nav_order: 2
 ---
 
 # Technical Information
+{: .no_toc}
 
 Technical information includes the dimensions of the vehicle and specifications of its components.
 
+### Table of contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 ## Dimensions
 
-It is important to understand the dimensions of the vehicle including height and towing weight so that you are aware
-of the limitations when driving.
+It is important to understand the dimensions of the vehicle including height and towing weight so that you are aware of the limitations when driving.
 
 | Component | Details (metric) |
 |:----------|:-----------------|
