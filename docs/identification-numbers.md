@@ -8,7 +8,7 @@ nav_order: 14
 
 Unique identification numbers are stamped on the car, the engine and the transmission case. They are used to identify your particular car.
 
-- **📝 Note:** When communicating with your dealer, always quote the car and engine numbers of your vehicle.
+**📝 Note:** When communicating with your dealer, always quote the car and engine numbers of your vehicle.
 
 ### Location of car part numbers
   

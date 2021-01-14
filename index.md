@@ -29,7 +29,7 @@ This manual includes information for the Saloon and Traveller models.
 
 All information, specifications and illustrations in this manual are correct at the time of printing.
 
-- **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
+**ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
 
 Detailed and technical information is contained in the Workshop Manual which is available from your authorised
 Mini dealer.

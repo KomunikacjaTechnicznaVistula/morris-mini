@@ -30,7 +30,7 @@ Both taps are accessible from under the bonnet.
 
 Some vehicles are fitted with a drain plug instead of a tap. This plug must be removed to drain the radiator.
 1. Open both taps and remove the filler cap to drain the cooling system completely.  
-- **ℹ️ Tip:** Collect any anti-freeze in a clean container for future use.
+**ℹ️ Tip:** Collect any anti-freeze in a clean container for future use.
 2. Insert a hose in the filling orifice and allow water to flow through the system until clean.
 
 ## Filling the cooling system
@@ -69,7 +69,7 @@ The cooling system on this vehicle is pressurised. Release the pressure graduall
 3. Leave the cap in this position until all the pressure is released.
 4. Press the cap downwards against the spring to clear the saftey stops, and continue turning until it can be lifted off.
 
-- **ℹ️ Tip:** A water level indicator is fitted inside the header tank.
+**ℹ️ Tip:** A water level indicator is fitted inside the header tank.
 
 ## Adding anti-freeze
 
@@ -81,11 +81,11 @@ You can avoid this risk by draining the cooling system when the vehicle is left 
 
 Anti-freeze can remain in the cooling system for up to two years provided that the specific gravity of the coolant is check periodically by your dealer and anti-freeze added as necessary.
 
-- **❗️ CAUTION:** Do not use radiator anti-freeze solution in the windshield-washing equipment.
+**❗️ CAUTION:** Do not use radiator anti-freeze solution in the windshield-washing equipment.
 
 1. Drain the cooling system.
 2. When all the water is drained away, close the taps.  
-  - **📝 Note:**Refer to anti-freeze amounts to determine how much anti-freeze to use.
+  **📝 Note:**Refer to anti-freeze amounts to determine how much anti-freeze to use.
 3. Pour in the anti-freeze.
 4. Fill with water.
 

@@ -27,7 +27,7 @@ When seat belts are fitted to both seats, the short belt is attached to the side
 
 That is, the belt must cross the tunnel.
 
-- **❗️ Attention:** The fitting of seat belts should only be carried out by a licensed dealer.
+**❗️ Attention:** The fitting of seat belts should only be carried out by a licensed dealer.
 
 ## Fastening the seat belts
 
@@ -78,14 +78,14 @@ Open the luggage compartment by turning the handle anti-clockwise to release the
 
 Fold the lid down and use it in the open position for additional luggage carrying capacity. The rear number plate is hinged so that you can ensure it is clearly visible to following vehicles when the luggage compartment lid is folded down.
 
-- **❗️ Warning:** Don't carry heavy luggage items on the lid.
+**❗️ Warning:** Don't carry heavy luggage items on the lid.
 
 ## Opening the bonnet
 
 Open the bonnet when you need to access the engine. It has two separate mechanisms to ensure it is securely fastened, so it is important you are familiar with how to open it.
 
-- **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
-- **📝 Note:** When the bonnet is open, ensure the release lever and safey catch are well lubricated.
+**ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
+**📝 Note:** When the bonnet is open, ensure the release lever and safey catch are well lubricated.
 
 1. Insert a finger in the centre top louvre of the radiator shell.
 2. Move the release lever toward the right-hand side of the vehicle.  
@@ -104,7 +104,7 @@ The bonnet lock has a two part mechanism: a release lever and safety catch.
 
 The release lever is located in the centre of the bonnet and the safety catch is beneath the bonnet on the left hand side.
 
-- **📝 Note:** Keep the bonnet release lever and safey catch well lubricated.
+**📝 Note:** Keep the bonnet release lever and safey catch well lubricated.
 
 ![Bonnet lock](/assets/images/BonnetLock.png)  
 *The bonnet release lever and safety catch*
@@ -113,7 +113,7 @@ The release lever is located in the centre of the bonnet and the safety catch is
 
 Always ensure the bonnet is securely fastened to prevent it opening whilst the vehicle is in motion, which could obscure the windshield and driver vision.
 
-- **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
+**ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
 
 1. Raise the bonnet slightly to clear the prop.
 2. Stow the prop in the clip.
@@ -121,7 +121,7 @@ Always ensure the bonnet is securely fastened to prevent it opening whilst the v
 4. Apply hand pressure to press the bonnet fully into the closed position.  
 You will hear the saftey catch and bonnet lock engage.
 
-- **❗️ Warning:** Always drive with the bonnet closed.
+**❗️ Warning:** Always drive with the bonnet closed.
 
 ## Opening front windows
 
@@ -130,7 +130,7 @@ The front windows slide open to allow fresh air into your vehicle.
 The font and rear glass of the front windows can be fully or partially opened. The locking plunger will secure the
 glass in a number of positions, providing a range of openings.
 
-- **ℹ️ Tip:** Open to the second, third or fourth locking position to aid demisting in cold weather.
+**ℹ️ Tip:** Open to the second, third or fourth locking position to aid demisting in cold weather.
 
 ![Front Window](/assets/images/FrontWindow.png)  
 *Front sliding windows*
@@ -143,7 +143,7 @@ The rear windows slide open to allow fresh air to circulate while driving.
 
 The glasses in the rear windows operate in sliding channels.
 
-- **❗️ Attention:** When locking the vehicle make sure that the window tabs are in the locked position.
+**❗️ Attention:** When locking the vehicle make sure that the window tabs are in the locked position.
 
 ![Rear Window](/assets/images/RearWindow.png)  
 *Rear windows*

@@ -9,9 +9,9 @@ nav_order: 3
 
 Gently clean the exterior trim and apply grease to preserve the finish.
 
-- **❗️ CAUTION:** Never use an abrasive cleaner on stainless steel, chrome, aluminium or plastic trim.
+**❗️ CAUTION:** Never use an abrasive cleaner on stainless steel, chrome, aluminium or plastic trim.
 
-- **📝 Note:** Don't clean plastic trim with metal polish.
+**📝 Note:** Don't clean plastic trim with metal polish.
 
 Any sligh tarnish found on stainless steel or plated trim that has not received regular washing can be removed with BMC Chrome Cleaner.
 
