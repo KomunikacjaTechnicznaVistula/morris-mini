@@ -8,8 +8,9 @@ nav_order: 12
 
 It is important to check that the engine and chassis is adequately lubricated at all times to prolong the life of the vehicle. Use this diagram and chart to maintain the lubrication of your vehicle.
 
-*Lubrication diagram*  
 ![Lubrication diagram](/assets/images/LubeChart.png)  
+*Lubrication diagram*
+
 
 | # | Frequency    | Component         | Action |
 |:--|:-------------|:------------------|:-------|

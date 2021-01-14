@@ -15,8 +15,8 @@ The heater works by using hot water from the engine cooling system to warm the a
 
 There are three controls to operate the heater: a control knob, a shutter control lever and a blower motor switch.
 
+![Heater Controls Traveller](/assets/images/HeaterControlsTraveller.png)  
 *Heater Controls*
-![Heater Controls Traveller](/assets/images/HeaterControlsTraveller.png)
 
 | # | Feature |
 |:--|:--------|

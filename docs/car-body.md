@@ -35,8 +35,8 @@ Ensure the driver and passenger seat belts are correclty adjusted, and always ke
 
 Seat belts are adjustable, and should fit snugly across your hips and chest.
 
+![Seatbelt](/assets/images/Seatbelt.png)  
 *A driver with a correctly fastened seatbelt.*
-![Seatbelt](/assets/images/Seatbelt.png)
 
 1. Adjust the short belt until the attached buckle is located just in front of your hip.
 2. Adjust the long belt so that the buckle tongue is approximately at the belt centre.
@@ -62,8 +62,8 @@ The driver's door is locked from the outside using the ignition key.
 
 The passenger's door can be locked from the inside by lifting up the small safety catch on the front of the door lock.
 
+![Door lock](/assets/images/DoorLock.png)  
 *Safety catch on the inside passenger door*
-![Door lock](/assets/images/DoorLock.png)
 
 ## Luggage compartment
 
@@ -73,8 +73,8 @@ The luggage compartment is located at the rear of the vehicle.
 
 Open the luggage compartment by turning the handle anti-clockwise to release the catch. Turn the handle clockwise to secure the compartment. When closed, you can lock the lid with the key provided.
 
+![Luggage lock](/assets/images/LuggageLock.png)  
 *Locking the lid of the luggage compartment*
-![Luggage lock](/assets/images/LuggageLock.png)
 
 Fold the lid down and use it in the open position for additional luggage carrying capacity. The rear number plate is hinged so that you can ensure it is clearly visible to following vehicles when the luggage compartment lid is folded down.
 
@@ -106,8 +106,8 @@ The release lever is located in the centre of the bonnet and the safety catch is
 
 - **Note:** Keep the bonnet release lever and safey catch well lubricated.
 
+![Bonnet lock](/assets/images/BonnetLock.png)  
 *The bonnet release lever and safety catch*
-![Bonnet lock](/assets/images/BonnetLock.png)
 
 ## Closing the bonnet
 
@@ -132,8 +132,8 @@ glass in a number of positions, providing a range of openings.
 
 - **Tip:** Open to the second, third or fourth locking position to aid demisting in cold weather.
 
+![Front Window](/assets/images/FrontWindow.png)  
 *Front sliding windows*
-![Front Window](/assets/images/FrontWindow.png)
 
 To open and secure the front windows, depress the plunger and slide the glass to the required position.
 
@@ -145,8 +145,8 @@ The glasses in the rear windows operate in sliding channels.
 
 - **Attention:** When locking the vehicle make sure that the window tabs are in the locked position.
 
+![Rear Window](/assets/images/RearWindow.png)  
 *Rear windows*
-![Rear Window](/assets/images/RearWindow.png)
 
 1. To open the windows, fold the hinged locking tab inwards clear of the stop plate.
 2. Use the hand-pull on the forward edge of the glass to pull the window to the required position.
