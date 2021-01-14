@@ -15,4 +15,4 @@ It only indicates the fuel level when the ignition switch is in the 'On' positio
 
 The gauge may move slightly during braking, turning, accelerating or going up and down hills.
 
-- **CAUTION:** Refuel before the gauge reaches empty.
+- **❗️ CAUTION:** Refuel before the gauge reaches empty.

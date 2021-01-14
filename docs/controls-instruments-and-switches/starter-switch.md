@@ -13,5 +13,5 @@ The starter switch is the circular black knob on the floor in front of the drive
 - Push the knob down quickly and firmly with your thumb or forefinger to operate the starter.
 - Release it as soon as the engine fires.
 
-- **Note:** If the engine fails to start, wait until the crankshaft comes to rest before pushing the starter switch
+- **📝 Note:** If the engine fails to start, wait until the crankshaft comes to rest before pushing the starter switch
 again.

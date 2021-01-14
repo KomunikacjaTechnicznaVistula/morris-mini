@@ -13,7 +13,7 @@ The heater works by using hot water from the engine cooling system to warm the a
 
 Use the heater in cold weather to warm and circulate the interior air. You can also use the heater to provide a current of hot air onto the windshield for demisting.
 
-- **Note:** The heater blower only operates when the engine is switched on.
+- **📝 Note:** The heater blower only operates when the engine is switched on.
 
 There are three controls to operate the heater: a temperature dial, a shutter on the heater unit box and a control valve.
 
@@ -38,8 +38,8 @@ The heater unit box has a shutter which you can manually operate to circulate ho
 
 The heater unit box is located under the control panel and is hand-operated.
 
-- **Note:** The blower only circulates interior air. It does not introduce fresh air into the vehicle.
-- **Tip:** The heater unit box is not always cold when the heater is off because a certain amount of heat is always transfered to it from the engine.
+- **📝 Note:** The blower only circulates interior air. It does not introduce fresh air into the vehicle.
+- **ℹ️ Tip:** The heater unit box is not always cold when the heater is off because a certain amount of heat is always transfered to it from the engine.
 
 ![Heater box shutter](/assets/images/HeaterBoxShutter.png)  
 *Heater box shutter*

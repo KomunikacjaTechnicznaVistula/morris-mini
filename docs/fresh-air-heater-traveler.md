@@ -11,7 +11,7 @@ The heater is used to heat the interior of the vehicle to let you drive in comfo
 
 The heater works by using hot water from the engine cooling system to warm the air, and uses a shutter control and blower to distribute the air through the interior of the vehicle.
 
-- **Note:** The heater blower only operates when the engine is switched on.
+- **📝 Note:** The heater blower only operates when the engine is switched on.
 
 There are three controls to operate the heater: a control knob, a shutter control lever and a blower motor switch.
 
@@ -56,4 +56,4 @@ The blower motor switch is located under the shutter control lever. It operates 
 
 Switch on the blower motor when maximum performance from the heater or ventilation system is required. It can also be used when travelling at low speed to compensate for lack of ram air effect (air intake to keep the engine cool).
 
-- **Tip:** If you notice unpleasant odours drawn in from the outside, switch off the blower motor and set the shutter control lever to OFF until outside conditions improve.
+- **ℹ️ Tip:** If you notice unpleasant odours drawn in from the outside, switch off the blower motor and set the shutter control lever to OFF until outside conditions improve.

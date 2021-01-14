@@ -20,9 +20,9 @@ Familiarise yourself with all of the controls so that you can drive confidently 
 The foot pedals control the acceleration and braking of the car and the clutch pedal allows you to engage the gears.
 The pedal controls are, from left to right, the clutch, brake and accelerator.
 
-- **Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
+- **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
 
-- **Warning:** Do not drive with your foot resting on the clutch pedal.
+- **❗️ Warning:** Do not drive with your foot resting on the clutch pedal.
 
 - Depress the pedal with your foot to engage the control.
 - Lift your foot off the pedal to disengage the control.
@@ -37,7 +37,7 @@ Depress the clutch foot pedal to engage a gear.
 
 The lever is centrally situated and defaults to neutral gear.
 
-- **Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
+- **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
 
 From the neutral position, move the lever:
 - left and forwards to select first gear.
@@ -74,11 +74,11 @@ The windshield wipers have rubber blades which wipe back and forth across the wi
 
 The windshield wiper switch is located on the left of the ignition switch.
 
-**Tip:** The windshield wipers only function when the ignition is switched on.
+**ℹ️ Tip:** The windshield wipers only function when the ignition is switched on.
 
 1. Move the switch downwards to turn the wipers on.
 2. Move the switch upwards to turn off the wipers.
-- **Note:** Wait until the wipers are at the end of the stroke, horizontal (parallel with the bonnet) before switching off.  
+- **📝 Note:** Wait until the wipers are at the end of the stroke, horizontal (parallel with the bonnet) before switching off.  
 
 ## Indicating turning
 
@@ -88,13 +88,13 @@ The direction indicators cause the indicator lights at the front and rear of the
 
 These are operated by the switch lever on the right hand side of the steering wheel.
 
-- **Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
+- **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
 
 The flashing direction indicators will only operate when the ignition is switched on.
 - Move the switch lever upwards to operate the left-hand flashing indicator for turning left.
 - Move the switch lever downwards to operate the right-hand flashing indicator for turning right.
 
-- **Tip:** A warning light in the end of the switch lever indicates when a direction indicator is in use.
+- **ℹ️ Tip:** A warning light in the end of the switch lever indicates when a direction indicator is in use.
 
 ## Turning on the headlights
 
@@ -115,7 +115,7 @@ The headlight beam dipping switch lets you lower the height of the headlight bea
 The headlight beam dipping switch is located in the center of the toeboard and is foot-operated.
 
 The switch is an on/off toggle, dipping the beams on one depression and raising them on the next.
-- **Tip:** A light at the top of the instrument dial glows blue when the beams are in the raised position.
+- **ℹ️ Tip:** A light at the top of the instrument dial glows blue when the beams are in the raised position.
 
 1. Press the switch with your foot.  
 The headlight beams dip.
@@ -140,6 +140,6 @@ shouldn't overly tax the engine.
 The treatment given to the engine during this period has a bearing on its subsequent life. Therefore, you should limit
 the engine speed during this early period of your new vehicle's life.
 
-- **Restriction:** Do not exceed 45 mph (72 kph).
-- **Restriction:** Do not drive at full throttle in any gear.
-- **Restriction:** Do not allow the engine to labour in any gear.
+- **🚫 Restriction:** Do not exceed 45 mph (72 kph).
+- **🚫 Restriction:** Do not drive at full throttle in any gear.
+- **🚫 Restriction:** Do not allow the engine to labour in any gear.

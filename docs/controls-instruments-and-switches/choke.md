@@ -19,5 +19,5 @@ Depending on the weather, push the choke knob fully in or in to the 'weak' posit
 - In cold weather, wait for the engine to run for several minutes with the choke pushed in to the 'weak' position.
 - In warm weather push the choke control knob fully in almost immediately.
 
-- **Warning:** Do not run the engine for a long period of time with the choke knob pulled fully out because neat
+- **❗️ Warning:** Do not run the engine for a long period of time with the choke knob pulled fully out because neat
 fuel will be pulled into the cylinders and cause damage.
