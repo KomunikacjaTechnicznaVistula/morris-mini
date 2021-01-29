@@ -17,5 +17,5 @@ nav_order: 16
 *And here is yet another one, but it is still rendered as an image:*  
 ![SVG in question](/assets/images/image_with_links.svg)
 
-*And here is yet another one, this time entered as code:*  
+*And here is yet another one, this time entered as a Jekyll include_relative:*  
 {% include_relative /assets/images/image_with_links.svg %}
