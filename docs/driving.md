@@ -77,7 +77,7 @@ The windshield wiper switch is located on the left of the ignition switch.
 **ℹ️ Tip:** The windshield wipers only function when the ignition is switched on.
 
 1. Move the switch downwards to turn the wipers on.
-2. Move the switch upwards to turn off the wipers.
+2. Move the switch upwards to turn off the wipers.  
 **📝 Note:** Wait until the wipers are at the end of the stroke, horizontal (parallel with the bonnet) before switching off.  
 
 ## Indicating turning
@@ -114,7 +114,7 @@ The headlight beam dipping switch lets you lower the height of the headlight bea
 
 The headlight beam dipping switch is located in the center of the toeboard and is foot-operated.
 
-The switch is an on/off toggle, dipping the beams on one depression and raising them on the next.
+The switch is an on/off toggle, dipping the beams on one depression and raising them on the next.  
 **ℹ️ Tip:** A light at the top of the instrument dial glows blue when the beams are in the raised position.
 
 1. Press the switch with your foot.  
@@ -140,6 +140,6 @@ shouldn't overly tax the engine.
 The treatment given to the engine during this period has a bearing on its subsequent life. Therefore, you should limit
 the engine speed during this early period of your new vehicle's life.
 
-**🚫 Restriction:** Do not exceed 45 mph (72 kph).
-**🚫 Restriction:** Do not drive at full throttle in any gear.
+**🚫 Restriction:** Do not exceed 45 mph (72 kph).  
+**🚫 Restriction:** Do not drive at full throttle in any gear.  
 **🚫 Restriction:** Do not allow the engine to labour in any gear.
