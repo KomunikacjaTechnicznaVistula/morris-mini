@@ -1,7 +1,7 @@
 ---
 layout: default
 title: (Just for testing)
-nav_order: 16
+nav_exclude: true
 ---
 
 # Will SVGs render?
@@ -16,6 +16,3 @@ nav_order: 16
 
 *And here is yet another one, this time entered as a Jekyll include:*  
 {% include image_with_links.svg %}
-
-*And here is yet another one  entered as a Jekyll include:*  
-{% include il_speaker_setup.svg %}
