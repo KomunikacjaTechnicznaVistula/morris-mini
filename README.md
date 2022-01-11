@@ -1,7 +1,8 @@
-# komunikacjatechnicznavistula.github.io
-GitHub Pages for the Vistula University course on Technical Communication
+# Morris Mini Owner's Manual
 
-The Driver's Handbook for the Morris Mini Minor is based on Felicity Brand's example DITA project at https://github.com/flicstar/DITA-Mini-Manual
+This repository hosts source content for an example techcnial documentation project published via github pages, using the [just the docs](https://github.com/pmarsceill/just-the-docs) Jekyll template.
+
+The contents of the Driver's Handbook for the Morris Mini Minor are based on Felicity Brand's example DITA project at https://github.com/flicstar/DITA-Mini-Manual
 
 This repository is connected with the JIRA server at https://techcommvistula.atlassian.net
 
