@@ -5,7 +5,7 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
 
-logo: "/assets/images/Morris_badge.png"
+# logo: "/assets/images/Morris_badge.png"
 
 aux_links:
   "Source repository on GitHub":
