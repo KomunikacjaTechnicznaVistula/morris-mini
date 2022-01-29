@@ -3,9 +3,9 @@ title: Morris Mini Owner's Manual
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
-color_scheme: vistula
+color_scheme: dark
 
-# logo: "/assets/images/Morris_badge.png"
+logo: "/assets/images/Morris_badge.png"
 
 aux_links:
   "Source repository on GitHub":
