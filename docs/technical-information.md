@@ -15,7 +15,7 @@ Technical information includes the dimensions of the vehicle and specifications 
 1. TOC
 {:toc}
 
-## Dimensions <!-- omit in toc -->
+## Dimensions
 
 It is important to understand the dimensions of the vehicle including height and towing weight so that you are aware of the limitations when driving.
 
