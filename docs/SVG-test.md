@@ -17,4 +17,6 @@ nav_exclude: true
 *And here is yet another one, this time entered as a Jekyll include:*  
 {% include image_with_links.svg %}
 
-Here I am testing an *inline style*{: style="text-decoration: underline; font-style: normal;" .underline}. Let's hope it works.
+Here I am testing an *inline style*{: style="text-decoration: underline; font-style: normal;"}. Let's hope it works.
+
+Here I am testing an *inline style*{: .underline}. Let's hope it works.
