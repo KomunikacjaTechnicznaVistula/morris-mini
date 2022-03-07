@@ -9,7 +9,7 @@ nav_order: 1
 
 The main controls include the pedals, gears and handbrake.
 
-![Controls](/assets/images/GearLeverPedals.png)
+![Controls](../../assets/images/GearLeverPedals.png)
 
 | # | Feature |
 |:--|:-------------|
