@@ -41,7 +41,7 @@ The heater unit box is located under the control panel and is hand-operated.
 **📝 Note:** The blower only circulates interior air. It does not introduce fresh air into the vehicle.
 **ℹ️ Tip:** The heater unit box is not always cold when the heater is off because a certain amount of heat is always transfered to it from the engine.
 
-![Heater box shutter](/assets/images/HeaterBoxShutter.png)  
+![Heater box shutter](../assets/images/HeaterBoxShutter.png)  
 *Heater box shutter*
 
 - Pull the shutter fully upwards to give maximum flow of hot air for interior heating.
@@ -53,5 +53,5 @@ A control valve in the engine, located on the right of the cyclinder head, opens
 
 Close the valve during hot weather when heating inside the vehicle is not required.
 
-![Heater control valve](/assets/images/HeatercontrolValve.png)  
+![Heater control valve](../assets/images/HeatercontrolValve.png)  
 *Heater control valve*

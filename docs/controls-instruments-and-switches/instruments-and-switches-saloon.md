@@ -9,7 +9,7 @@ nav_order: 2
 
 Most instruments and switches are located on the dashboard of the car, within easy reach of the driver for easy adjustment during driving.
 
-![Instruments and Switches - Saloon](/assets/images/Instruments_standard.png) 
+![Instruments and Switches - Saloon](../../assets/images/Instruments_standard.png) 
 
 | # | Feature |
 |:--|:-------------|

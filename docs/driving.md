@@ -32,7 +32,7 @@ The pedal controls are, from left to right, the clutch, brake and accelerator.
 The gear lever is used to switch between the different gears to allow you to drive the car.
 Depress the clutch foot pedal to engage a gear.
 
-![Gear lever](/assets/images/Gearlever.png)  
+![Gear lever](../assets/images/Gearlever.png)  
 *Gear lever*
 
 The lever is centrally situated and defaults to neutral gear.

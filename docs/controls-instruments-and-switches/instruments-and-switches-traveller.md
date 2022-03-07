@@ -9,7 +9,7 @@ nav_order: 3
 
 Most instruments and switches are located on the dashboard of the car, within easy reach of the driver for easy adjustment during driving.
 
-![Instruments and Switches - Traveller](/assets/images/Instruments_traveller.png) 
+![Instruments and Switches - Traveller](../../assets/images/Instruments_traveller.png) 
 
 | # | Feature |
 |:--|:-------------|

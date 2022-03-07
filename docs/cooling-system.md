@@ -25,7 +25,7 @@ There are two drain taps for draining the cooling system:
 
 Both taps are accessible from under the bonnet.
 
-![Radiator drain taps](/assets/images/DrainTap.png)  
+![Radiator drain taps](,,/assets/images/DrainTap.png)  
 *Radiator drain taps*
 
 Some vehicles are fitted with a drain plug instead of a tap. This plug must be removed to drain the radiator.
@@ -61,7 +61,7 @@ If the engine overheats, you may want to add water to the radiator to help cool 
 
 The cooling system on this vehicle is pressurised. Release the pressure gradually when removing the radiator cap - which will be hot after driving.
 
-![Radiator cap](/assets/images/RadiatorCap.png)  
+![Radiator cap](../assets/images/RadiatorCap.png)  
 *Radiator cap*
 
 1. Protect your hands using gloves or a cloth to avoid risk of burns from escaping steam.

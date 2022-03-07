@@ -11,7 +11,7 @@ Jack or raise the car with the special tool provided.
 
 The jack supplied with the vehicle is designed to lift one side of the vehicle at a time.
 
-![Jacking the car](/assets/images/JackWheel.png)  
+![Jacking the car](../../assets/images/JackWheel.png)  
 *Jacking the car*  
 
 1. Remove the rubber plug from the socket below the door on the exterior of the car.
